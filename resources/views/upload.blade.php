@@ -1,5 +1,4 @@
 @extends('layouts.app')
-
 @section('content')
 <main class="pt-90">
     <section class="upload-section container">
